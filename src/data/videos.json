@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "title": "Learn React in 30 Minutes - Beginner Tutorial",
+    "channel": "Code With Me",
+    "thumbnail": "https://img.youtube.com/vi/dGcsHMXbSOA/mqdefault.jpg",
+    "views": "1.2M views",
+    "posted": "2 days ago",
+    "duration": "28:45",
+    "category": "Programming",
+    "youtubeId": "dGcsHMXbSOA",
+    "description": "In this beginner-friendly tutorial, we cover all the basics of React including components, props, and state management."
+  },
+  {
+    "id": "2",
+    "title": "JavaScript for Beginners - Full Course 2024",
+    "channel": "JS Academy",
+    "thumbnail": "https://img.youtube.com/vi/PkZNo7MFNFg/mqdefault.jpg",
+    "views": "3.5M views",
+    "posted": "1 week ago",
+    "duration": "3:26:00",
+    "category": "Programming",
+    "youtubeId": "PkZNo7MFNFg",
+    "description": "Complete JavaScript course for beginners. Learn variables, functions, arrays, objects, and modern ES6+ features."
+  },
+  {
+    "id": "3",
+    "title": "CSS Flexbox & Grid - Complete Layout Guide",
+    "channel": "Design Dev",
+    "thumbnail": "https://img.youtube.com/vi/fYq5PXgSsbE/mqdefault.jpg",
+    "views": "890K views",
+    "posted": "3 days ago",
+    "duration": "1:02:15",
+    "category": "Design",
+    "youtubeId": "fYq5PXgSsbE",
+    "description": "Master CSS Flexbox and Grid layouts with real-world examples and projects."
+  },
+  {
+    "id": "4",
+    "title": "Vite + React Setup - Zero to Hero Guide",
+    "channel": "WebDev Simplified",
+    "thumbnail": "https://img.youtube.com/vi/LQQ3CR2JTX8/mqdefault.jpg",
+    "views": "500K views",
+    "posted": "5 days ago",
+    "duration": "18:30",
+    "category": "Programming",
+    "youtubeId": "LQQ3CR2JTX8",
+    "description": "Set up a Vite + React project from scratch and understand how modern frontend tooling works."
+  },
+  {
+    "id": "5",
+    "title": "Git and GitHub Full Crash Course",
+    "channel": "Tech Tutorials",
+    "thumbnail": "https://img.youtube.com/vi/RGOj5yH7evk/mqdefault.jpg",
+    "views": "2.1M views",
+    "posted": "1 month ago",
+    "duration": "1:08:49",
+    "category": "Tools",
+    "youtubeId": "RGOj5yH7evk",
+    "description": "Everything you need to know about Git and GitHub — from basic commits to branching and pull requests."
+  },
+  {
+    "id": "6",
+    "title": "Node.js Crash Course for Beginners",
+    "channel": "Traversy Media",
+    "thumbnail": "https://img.youtube.com/vi/fBNz5xF-Kx4/mqdefault.jpg",
+    "views": "4.8M views",
+    "posted": "2 weeks ago",
+    "duration": "1:30:00",
+    "category": "Programming",
+    "youtubeId": "fBNz5xF-Kx4",
+    "description": "Learn Node.js from the ground up. Build real apps using Express and understand server-side JavaScript."
+  },
+  {
+    "id": "7",
+    "title": "Tailwind CSS Full Tutorial - Build a Website",
+    "channel": "Design Dev",
+    "thumbnail": "https://img.youtube.com/vi/dFgzHOX84xQ/mqdefault.jpg",
+    "views": "760K views",
+    "posted": "4 days ago",
+    "duration": "2:10:00",
+    "category": "Design",
+    "youtubeId": "dFgzHOX84xQ",
+    "description": "Build a complete website using Tailwind CSS utility classes. No custom CSS needed!"
+  },
+  {
+    "id": "8",
+    "title": "Python for Beginners - Full Course",
+    "channel": "Programming with Mosh",
+    "thumbnail": "https://img.youtube.com/vi/_uQrJ0TkZlc/mqdefault.jpg",
+    "views": "22M views",
+    "posted": "3 months ago",
+    "duration": "6:14:00",
+    "category": "Programming",
+    "youtubeId": "_uQrJ0TkZlc",
+    "description": "The most comprehensive Python tutorial for beginners. Start from zero and build real projects."
+  }
+]
